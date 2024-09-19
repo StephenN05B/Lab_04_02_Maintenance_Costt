@@ -5,7 +5,7 @@ public class Main {
         double springCost = 0;
         double summerCost = 0;
         double fallCost = 0;
-        final double yearlyCost = 0;
+        double yearlyCost = 0;
 
         yearlyCost = winterCost + springCost + summerCost + fallCost;
 
